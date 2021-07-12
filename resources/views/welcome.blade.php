@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+aaaaaaaaaaaaaaaaa
+>>>>>>> d9ea7dd1fdd03e124a639928b98caf0b5208497b
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
